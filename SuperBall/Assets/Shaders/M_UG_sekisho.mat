@@ -39,6 +39,6 @@ Material:
     - _IsFluctuation: 1
     - _IsVertexColor: 1
     m_Colors:
-    - Color_E160EED9: {r: 1, g: 0, b: 0.74655247, a: 0}
-    - Color_FCABA32: {r: 0, g: 0.80277205, b: 1, a: 0}
+    - Color_E160EED9: {r: 1, g: 0.43867922, b: 0.8569183, a: 0}
+    - Color_FCABA32: {r: 0.504717, g: 0.90288574, b: 1, a: 0}
     - _MainColor: {r: 0.46146172, g: 2.1993454, b: 2.4483106, a: 1}
